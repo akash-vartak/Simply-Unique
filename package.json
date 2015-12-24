@@ -1,0 +1,16 @@
+{
+    "name": "akash.first-theme",
+    "title": "Unique",
+    "description": "A Simple and Unique theme",
+    "version": "1.0.0",
+    "author": "Akash Vartak <akashvartak.1995@gmail.com> (http://akashvartak.tk/)",
+    "theme": {
+        "file": "simplyunique.less",
+        "dark": true
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "keywords": ["dark"]
+}
