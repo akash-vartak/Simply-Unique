@@ -3,7 +3,12 @@
     "title": "Unique",
     "description": "A Simple and Unique theme",
     "version": "1.0.0",
-    "author": "Akash Vartak <akashvartak.1995@gmail.com> (http://akashvartak.tk/)",
+    "author": "Akash Vartak (http://akashvartak.tk/)",
+    "homepage": "https://github.com/akash-vartak/Simply-Unique",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:akash-vartak/Simply-Unique.git"
+    },
     "theme": {
         "file": "simplyunique.less",
         "dark": true
@@ -13,6 +18,5 @@
         "brackets": ">=0.42.0"
     },
     "keywords": ["dark"],
-    "homepage": "https://github.com/akash-vartak/Simply-Unique",
     "bugs": "https://github.com/akash-vartak/Simply-Unique/issues"
 }
