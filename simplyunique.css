@@ -126,8 +126,8 @@
   color: #727272;
 }
 .CodeMirror-selected {
-	background: black !important;
-    color: red;
+  background: black !important;
+  color: red;
 }
 .cm-matchhighlight {
   background: #505050;
@@ -200,27 +200,27 @@
   color: #f8cb4f !important;
 }
 .CodeMirror-activeline-background {
-	background: #333 !important;
+  background: #333 !important;
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
-	color: #fff;
-	background-color: #000 !important;
+  color: #fff;
+  background-color: #000 !important;
 }
 
 .CodeMirror-matchingbracket {
-    font-style: italic;
-    font-size: 20px;
-    background: transparent !important;
-	border-bottom: 2px solid #fa4f68 !important;
-	border-top: 2px solid #fa4f68 !important;
-    color: #fff !important;
+  font-style: italic;
+  font-size: 20px;
+  background: transparent !important;
+  border-bottom: 2px solid #fa4f68 !important;
+  border-top: 2px solid #fa4f68 !important;
+  color: #fff !important;
 }
 
 .CodeMirror-matchingtag {
-    font-style: italic;
-    font-size: 20px;
-    background: transparent !important;
-	border-bottom: 2px solid #fa4f68 !important;
-	border-top: 2px solid #fa4f68 !important;
+  font-style: italic;
+  font-size: 20px;
+  background: transparent !important;
+  border-bottom: 2px solid #fa4f68 !important;
+  border-top: 2px solid #fa4f68 !important;
 }
