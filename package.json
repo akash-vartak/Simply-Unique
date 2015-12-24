@@ -2,13 +2,8 @@
     "name": "akash.first-theme",
     "title": "Unique",
     "description": "A Simple and Unique theme",
-<<<<<<< HEAD
-    "version": "1.0.0",
-    "author": "Akash Vartak (https://github.com/akash-vartak)",
-=======
     "version": "1.0.1",
     "author": "Akash Vartak (http://akashvartak.tk/)",
->>>>>>> d79c18773563663ef2834348fd4c5125e716a93d
     "homepage": "https://github.com/akash-vartak/Simply-Unique",
     "repository": {
         "type": "git",
