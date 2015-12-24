@@ -12,5 +12,7 @@
     "engines": {
         "brackets": ">=0.42.0"
     },
-    "keywords": ["dark"]
+    "keywords": ["dark"],
+    "homepage": "https://github.com/akash-vartak/Simply-Unique",
+    "bugs": "https://github.com/akash-vartak/Simply-Unique/issues"
 }
