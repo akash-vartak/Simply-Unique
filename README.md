@@ -6,7 +6,7 @@ I have made this theme with a lot of :heart: so please use it.
 If you use my files to create your own theme then please credit me with a simple mention. :)
 
 <h3>Installation</h3>
-Open Brackets editor and navigate to <code>Themes</code> under <code>Extension Manager</code>
+Open Brackets editor and navigate to <i>Themes</i> under <i>Extension Manager</i>
 
 <h3>Screenshots</h3>
 ![alt text](Screenshot (59).png "Tag matching")
